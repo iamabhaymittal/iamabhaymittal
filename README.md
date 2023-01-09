@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iamabhaymittal
-- 👀 I’m interested in Frontend Development and Blockchain
-- 🌱 I’m currently learning about the Ethereum Ecosystem!
-- 💞️ I’m looking to collaborate on web3 projects
+- 👋 Hi, I’m Abhay Mittal!
+- 👀 I love building and breaking things😛
+- 💼 I’m a full-stack dev (freelance / previously: nice.com)
+- 💞️ I’m looking to collaborate on AI and web3 projects
 - 📫 How to reach me: @aboiweb3 on twitter
 
 <!---
